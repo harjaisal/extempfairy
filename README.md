@@ -1,0 +1,1 @@
+ExtempFairy (fairy) is creating an open source, easy to use article scraper for extemporaneous speakers.
